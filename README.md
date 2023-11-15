@@ -2,6 +2,6 @@
 
 ## About me
 
-Skills
+# Skills
 
-Folow me
+** Folow me ** 
