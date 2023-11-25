@@ -7,7 +7,7 @@
 
 ## Experience 
 **QA ENGINEER**  
-[![Company «Diasoft»](https://diasoft.com/)]
+[[Company «Diasoft»](https://diasoft.com/)]
 Top 100 global fintech companies according to IDC.  
 2021 - 2022  
 * Manual testing of web and desktop applications for the world's largest insurance company
