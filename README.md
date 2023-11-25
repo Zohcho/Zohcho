@@ -6,10 +6,10 @@
 **Making games is my dream, and I'm taking steps towards it. I started learning Unity because this engine offers an immense array of possibilities, it versatile and has a huge, friendly community. I've already gained proficiency in working with objects, components, animations, UI, particle systems, sound, and more**
 
 ## Experience 
-**QA ENGINEER**
-Company «Diasoft»
-Top 100 global fintech companies according to IDC.
-2021 - 2022
+**QA ENGINEER**  
+Company «Diasoft»  
+Top 100 global fintech companies according to IDC.  
+2021 - 2022  
 
 
 ## Skills
