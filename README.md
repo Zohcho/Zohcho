@@ -7,19 +7,16 @@
 
 ## Experience 
 **QA ENGINEER**  
-Company «Diasoft»  
+[![Company «Diasoft»](https://diasoft.com/)]
 Top 100 global fintech companies according to IDC.  
 2021 - 2022  
-* Tested a solution for the world's largest insurance company,
-Allianz, and during my tenure, I did not allow a single critical
-or first-level error to affect productivity.
-* Created and maintained the up-to-date status of hundreds of
-pieces of various test and user documentation, and received
-recognition from clients for my ability to explain complex
-concepts in simple terms.
-* Managing the release of new software versions and the
-accompanying documentation. Our team consistently met
-release deadlines.
+* Manual testing of web and desktop applications for the world's largest insurance company
+* Development and updating of various test documentation (test cases, checklists, test results report)
+* Requirements analysis and creation of traceability matrices (Confluence)
+* API testing (postman, swagger)
+* Working with relational database (MSSQL, Oracle)
+* Working with CI/CD (Jenkins)
+* Responsibility for the new releases and accompanying documentation (ReadMe, Changelog)
 
 
 ## Skills
