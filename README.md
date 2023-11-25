@@ -18,6 +18,18 @@ Top 100 global fintech companies according to IDC.
 * Working with CI/CD (Jenkins)
 * Responsibility for the new releases and accompanying documentation (ReadMe, Changelog)
 
+**SUPPORT ENGINEER**  
+[Company «Tensor»](https://tensor.ru/about)  
+Ranked in the top 3 cloud service providers in Russia according to CNews.  
+2017 - 2021  
+* Resolving user issues when working with software and hardware
+* Creating bug reports
+* Re-testing fixed bugs
+* Creation and updating of instructions for users and company managers
+* Training new support engineers, preparing them for certification
+
+
+
 
 ## Skills
 
