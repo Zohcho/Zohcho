@@ -23,9 +23,6 @@
 **· English (b1), Russian (native)**
 
 
-
-
-
-
-
 **Folow me** 
+(https://www.linkedin.com/in/ilya-varzanov/)
+(https://t.me/Zohcho)
