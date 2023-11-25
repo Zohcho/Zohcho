@@ -8,7 +8,7 @@
 
 ## Skills
 
-**· Manual functional testing**
+**Manual functional testing**
 **· Test design**
 **· Test documentation**
 **· SQL (MSSQL, Oracle)**
