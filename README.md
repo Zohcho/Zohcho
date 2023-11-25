@@ -1,4 +1,4 @@
-## About me
+<span style="color:blue"> ## About me </span>
 **My transition into QA was justified by my years of experience working as a Support Engineer. I can tell you, this experience has given me a tremendous advantage. Everyone knows test-design methods, mastering them isn't that challenging; what's difficult is learning to apply them effectively. Unlike most entry-level testers who rarely consciously go beyond a few such methods, I managed to reduce the number of errors coming into support by about 30% using a relatively simple method of states and transitions, along with support call statistics.**
 
 **My life always was closely intertwined with computer games. It all started in 1999 with Sonic the Hedgehog 2, and then it's like a dream: the first landing in Normandy in Medal of Honor: Allied Assault, the first crime in GTA: Vice City, the first hyperspace jump in Freelancer, and so on and so forth.**
