@@ -10,6 +10,16 @@
 Company «Diasoft»  
 Top 100 global fintech companies according to IDC.  
 2021 - 2022  
+* Tested a solution for the world's largest insurance company,
+Allianz, and during my tenure, I did not allow a single critical
+or first-level error to affect productivity.
+* Created and maintained the up-to-date status of hundreds of
+pieces of various test and user documentation, and received
+recognition from clients for my ability to explain complex
+concepts in simple terms.
+* Managing the release of new software versions and the
+accompanying documentation. Our team consistently met
+release deadlines.
 
 
 ## Skills
