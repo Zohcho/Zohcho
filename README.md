@@ -24,5 +24,5 @@
 
 — — —
 **Folow me** 
-[Link](https://www.linkedin.com/in/ilya-varzanov/)
-[Link](https://t.me/Zohcho)
+[LinkdIn](https://www.linkedin.com/in/ilya-varzanov/)
+[Telegram](https://t.me/Zohcho)
