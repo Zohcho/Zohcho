@@ -6,7 +6,11 @@
 **My life always was closely intertwined with computer games. It all started in 1999 with Sonic the Hedgehog 2, and then it's like a dream: the first landing in Normandy in Medal of Honor: Allied Assault, the first crime in GTA: Vice City, the first hyperspace jump in Freelancer, and so on and so forth.**
 **Making games is my dream, and I'm taking steps towards it. I started learning Unity because this engine offers an immense array of possibilities, it versatile and has a huge, friendly community. I've already gained proficiency in working with objects, components, animations, UI, particle systems, sound, and more**
 
-| ntcn | ntcn12 | ctnc 3|
+|Место|Участник|Рейтинг|
+|-:|:-:|:-|
+|1|Саша|118|
+|2|Юля|92|
+|3|Даниил|36|
 
 ## Skills
 
