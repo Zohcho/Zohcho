@@ -22,7 +22,7 @@
 **· Agile (Scrum)**
 **· English (b1), Russian (native)**
 
-— — —
+
 **Folow me** 
-[LinkdIn](https://www.linkedin.com/in/ilya-varzanov/)
+(https://github.com/Zohcho/Zohcho/blob/main/assets/1417108.png?raw=true)[LinkedIn](https://www.linkedin.com/in/ilya-varzanov/)
 [Telegram](https://t.me/Zohcho)
