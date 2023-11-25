@@ -8,4 +8,24 @@
 
 ## Skills
 
+**· Manual functional testing**
+**· Test design**
+**· Test documentation**
+**· SQL (MSSQL, Oracle)**
+**· Atlassian products (Jira,**
+**Confluence)**
+**· API testing (Postman, SoapUI)**
+**· Working with CI (Jenkins)**
+**· Git**
+**· Unity**
+**· Basic C#**
+**· Agile (Scrum)**
+**· English (b1), Russian (native)**
+
+
+
+
+
+
+
 **Folow me** 
