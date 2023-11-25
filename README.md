@@ -24,6 +24,6 @@
 
 
 ### Folow me
-[![Telegram logo](https://github.com/Zohcho/Zohcho/blob/main/assets/1417108.png?raw=true)](https://t.me/Zohcho)
+[![Telegram logo](https://github.com/Zohcho/Zohcho/blob/main/assets/telegram_logo_circle_icon_134012.png?raw=true)](https://t.me/Zohcho)
 [![LinkedIn logo](https://github.com/Zohcho/Zohcho/blob/main/assets/LinkedIn_logo_initials.png?raw=true)](https://www.linkedin.com/in/ilya-varzanov/)
 
