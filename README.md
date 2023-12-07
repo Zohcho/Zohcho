@@ -13,6 +13,8 @@ Developer and publisher of games on the web
 * Functional testing of HTML5 games
 * Cross-browser and cross-platform testing
 * Testing projects through the Unity editor
+* Bugs localization, compiling bug reports, assigning tasks to performers
+* Handling support messages, bug fixes control
 
 **QA ENGINEER**  
 [Company «Diasoft»](https://diasoft.com/)  
