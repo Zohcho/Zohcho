@@ -6,6 +6,14 @@
 **Making games is my dream, and I'm taking steps towards it. I started learning Unity because this engine offers an immense array of possibilities, it versatile and has a huge, friendly community. I've already gained proficiency in working with objects, components, animations, UI, particle systems, sound, and more**
 
 ## Experience 
+**QA ENGINEER**
+[MirraGames](https://mirragames.com/about-us-en/)
+Developer and publisher of games on the web
+2023
+* Functional testing of HTML5 games
+* Cross-browser and cross-platform testing
+* Testing projects through the Unity editor
+
 **QA ENGINEER**  
 [Company «Diasoft»](https://diasoft.com/)  
 Top 100 global fintech companies according to IDC.  
